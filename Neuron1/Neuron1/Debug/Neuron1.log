@@ -1,0 +1,12 @@
+﻿  Main.cpp
+c:\users\finn\documents\university\visual studio\ai\neuron1\neuron1\main.cpp(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\finn\documents\university\visual studio\ai\neuron1\neuron1\main.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\finn\documents\university\visual studio\ai\neuron1\neuron1\main.cpp(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\finn\documents\university\visual studio\ai\neuron1\neuron1\main.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\finn\documents\university\visual studio\ai\neuron1\neuron1\main.cpp(48): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\finn\documents\university\visual studio\ai\neuron1\neuron1\main.cpp(106): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\finn\documents\university\visual studio\ai\neuron1\neuron1\main.cpp(145): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\finn\documents\university\visual studio\ai\neuron1\neuron1\main.cpp(146): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\finn\documents\university\visual studio\ai\neuron1\neuron1\main.cpp(15): warning C4101: 'rNum': unreferenced local variable
+  Neuron1.vcxproj -> C:\Users\Finn\Documents\University\Visual Studio\AI\Neuron1\Debug\Neuron1.exe
+  Neuron1.vcxproj -> C:\Users\Finn\Documents\University\Visual Studio\AI\Neuron1\Debug\Neuron1.pdb (Partial PDB)
